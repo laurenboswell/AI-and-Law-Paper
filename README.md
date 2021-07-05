@@ -1,2 +1,3 @@
-# AI-and-Law-Paper
-On the Fairness of Fake Data in Legal AI
+[# AI-and-Law-Paper](https://arxiv.org/abs/2009.04640)
+## On the Fairness of Fake Data in Legal AI
+The economics of smaller budgets and larger case numbers necessitates the use of AI in legal proceedings. We examine the concept of disparate impact and how biases in the training data lead to the search for fairer AI. This paper seeks to begin the discourse on what such an implementation would actually look like with a criticism of pre-processing methods in a legal context . We outline how pre-processing is used to correct biased data and then examine the legal implications of effectively changing cases in order to achieve a fairer outcome including the black box problem and the slow encroachment on legal precedent. Finally we present recommendations on how to avoid the pitfalls of pre-processed data with methods that either modify the classifier or correct the output in the final step.
